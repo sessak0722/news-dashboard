@@ -1,0 +1,7 @@
+streamlit>=1.36
+pandas>=2.0
+numpy
+python-dateutil
+python-dotenv
+requests>=2.31
+yfinance>=0.2.40
